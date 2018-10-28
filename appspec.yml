@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/html/html/htcode1
+    destination: /usr/share/nginx/html/html/htcode1.html
